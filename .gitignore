@@ -225,5 +225,7 @@ __marimo__/
 # mac
 .DS_Store
 
+# duckdb stuff
 *.wal
 *.tmp/
+*.duckdb*

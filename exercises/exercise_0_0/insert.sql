@@ -1,0 +1,26 @@
+
+INSERT INTO sql_course_structure(content, week, content_type)
+VALUES
+    ('00_intro', 46, 'lecture'),
+    ('01_course_structure', 46, 'lecture'),
+    ('02_setup_duckdb', 46, 'lecture'),
+    ('03_sql_introduction', 46, 'lecture'),
+    ('04_querying_data', 46, 'lecture'),
+    ('05_filtering', 46, 'lecture'),
+    ('exercise_0', 46, 'exercise'),
+    ('06_crud_operations', 47, 'lecture'),
+    ('07_grouping_data', 47, 'lecture'),
+    ('08_strings', 47, 'lecture'),
+    ('exercise_1', 47, 'exercise'),
+    ('09_temporal_data', 48, 'lecture'),
+    ('10_enforce_constraints', 48, 'lecture'),
+    ('11_set_operations', 48, 'lecture'),
+    ('exercise_2', 48, 'exercise'),
+    ('12_joins', 49, 'lecture'),
+    ('13_subquery', 49, 'lecture'),
+    ('17_pandas', 49, 'lecture'),
+    ('18_python_connect_duckdb', 49, 'lecture'),
+    ('exercise_3', 49, 'exercise'),
+    ('lab2', 50, 'exam'),
+    ('lab2', 51, 'exam'),
+    ('lab2', 52, 'exam');
